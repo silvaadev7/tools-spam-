@@ -1,7 +1,7 @@
 import discord
 import asyncio
 import os
-from colorama 
+from colorama import init, Fore, Style
     print(Fore.RED + "========================================")
     print(Fore.WHITE + "      DISCORD MULTI-CHANNEL TEST        ")
     print(Fore.RED + "========================================\n")
